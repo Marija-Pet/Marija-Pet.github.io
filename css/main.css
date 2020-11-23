@@ -1,0 +1,91 @@
+body{
+    margin:0em;
+    background-color: hsl(27, 88%, 94%);
+
+}
+.top {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    background-color: #AB92BF;
+    z-index: 2;
+    text-align: right;
+    
+}
+.top h3{
+    text-align: right;
+    margin-left: 40em;
+}
+
+.top .left{
+    width: 15%;
+    padding: 0.5em 1em 0em 1em;
+    text-align: left;
+    background-color: hsl(28, 65%, 84%);
+    z-index: 2;
+}
+.top h1{
+    margin: 0em;
+}
+
+.top .left h1 span{
+    display: block;
+    margin-left: 2.7em;
+}
+
+.addres{
+    display: block;
+}
+section .part2{
+    display:flex;
+    width: 100%;
+    position: relative;
+    left: 18em;
+}
+
+.part2 h2{
+    text-align: center;
+    
+}
+
+.color{
+    width: 17.5%;
+    background-color: #655A7C;
+    position: absolute;
+    bottom: 0;
+    top: 5em;
+    z-index: 1;
+    text-align: center;
+}
+.color img{
+    max-width: 100%;
+    height: 10em;
+}
+.color span{
+    text-align: center;
+}
+.color p{
+    padding: 0.5em;
+}
+
+.information{
+    display:flex;
+    padding: 1.5em;
+    margin: 0em 0em 0em 18%;
+   
+    
+
+}
+
+.information span{
+    text-align: center;
+    display: block;
+   
+}
+
+.column{
+    width: 33.3%;
+    padding: 1.5em;
+}
+
+
